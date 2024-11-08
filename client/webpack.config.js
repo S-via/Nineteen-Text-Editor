@@ -33,7 +33,7 @@ module.exports = () => {
       // added wepackmanifest // reference to mini proj
       new WebpackPwaManifest({
         name: 'Text Editor',
-        short_name: 'Nineteen',
+        short_name: 'JATE',
         description: 'Offline Text Editor',
         backround_color: '#bfa0da',
         theme_color: '#bfa0da',
