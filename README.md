@@ -14,6 +14,8 @@ Table of Contents
 ## Installation 
 - Install dependencies 
 --> npm i 
+--> npm run build
+--> npm run start
 
 
 ## Technologies Used
