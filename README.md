@@ -33,4 +33,6 @@ Type and edit inside the text editor as needed,
 the changes are save automatically, also you can 
 Download the PWA  to acess it offline
 
-
+## Deployed
+![imageone](/images/Image-8.png)
+![imagetwo](/images/Image-7.png)
