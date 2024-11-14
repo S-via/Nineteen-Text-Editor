@@ -4,6 +4,12 @@ A text editor that runs in the browser, this app will be a single-page applicati
 ## Description 
 Nineteen-Text-Editor , is a PWA built for users to be able to use a tool that works online and offline as a text editor tool. providing an uninterrupted experience
 
+Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [TechnologiesUsed](#technologies-used)
+- [Usage](#usage)
+
 
 ## Installation 
 - Install dependencies 
